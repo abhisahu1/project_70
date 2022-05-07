@@ -1,0 +1,39 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+
+.campuslife
+{
+    border: 1px solid lightgray;
+
+}
+
+.campuslife img 
+{
+    width: 100%;
+}
+
+.campuslife h5 , .campuslife p
+{
+    margin: 20px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.achievement_text span
+{
+    color: orange;
+}
